@@ -6,13 +6,13 @@ def app():
 
     st.title('Heatmaps')
 
-    filepath = "https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_cities.csv"
+    filepath = "https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/dw.csv"
     m = leafmap.Map(tiles="stamentoner")
     m.add_heatmap(
         filepath,
-        latitude="latitude",
-        longitude="longitude",
-        value="pop_max",
+        latitude="lat",
+        longitude="lon",
+        value="cases",
         name="Heat map",
         radius=20,
     )
