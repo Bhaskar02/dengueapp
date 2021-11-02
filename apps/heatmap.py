@@ -16,4 +16,4 @@ def app():
         name="Heat map",
         radius=20,
     )
-    m.to_streamlit(width=700, height=500)
+    m.to_streamlit(width=700, height=700)
