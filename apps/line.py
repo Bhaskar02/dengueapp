@@ -4,7 +4,8 @@ import plotly.express as px
 import plotly.graph_objs as go
 
 def app():
-  df1 = pd.read_csv('E:/dengue data python/leafmap/data/dengue101721f.csv')
+  url = 'https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/denguef.csv'
+  df1 = pd.read_csv(url)
 
   # Define bar properties
   columns1 = df1.columns.tolist()
@@ -17,10 +18,10 @@ def app():
   "Haryana","Himachal Pradesh","Jammu and Kashmir","Jharkhand","Karnataka","Kerala","Madhya Pradesh",
   "Maharashtra","Manipur","Meghalaya","Mizoram","Nagaland","Odisha","Puducherry","Punjab","Rajasthan",
   "Sikkim","Tamil Nadu","Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal"]
-  url = 'https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/denguef.csv'
+  #url = 'https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/denguef.csv'
 
-  df = pd.read_csv(url)
-  fig = px.bar(df, x='States/UTs', y=s.values, color='States/UTs')#, barmode="group")#, facet_col='States/UTs')
+  #df = pd.read_csv(url)
+  fig = px.bar(df1, x='States/UTs', y=s.values, color='States/UTs')#, barmode="group")#, facet_col='States/UTs')
   fig.update_layout(
       autosize=False,
       width=800,
