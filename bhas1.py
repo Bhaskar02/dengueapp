@@ -3,7 +3,8 @@ from multiapp import MultiApp
 from apps import (
     
     heatmap,
-    line1
+    line1,
+    line
     
 )
 
@@ -17,6 +18,7 @@ apps = MultiApp()
 
 apps.add_app("Heatmaps", heatmap.app)
 apps.add_app("Bargraph", line1.app)
+apps.add_app("Bargraph", line.app)
 
 
 # The main app
