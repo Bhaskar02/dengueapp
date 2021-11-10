@@ -17,4 +17,18 @@ def app():
   layout = go.Layout(title = "test")
   data = [trace]
   fig = go.Figure(data=data,layout=layout)
+  fig.update_layout(
+    autosize=False,
+    width=1000,
+    height=700,
+    margin=dict(
+        l=50,
+        r=50,
+        b=100,
+        t=100,
+        pad=4
+    ),
+    legend=dict(x=0.029, y=1.038, font_size=10),
+    paper_bgcolor="LightSteelBlue",
+)
   st.plotly_chart(fig)
