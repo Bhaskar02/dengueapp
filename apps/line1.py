@@ -6,7 +6,7 @@ import leafmap.foliumap as leafmap
 
 def app():
   st.title('BarGraph')
-  df1 = pd.read_csv('dengue101721f.csv')
+  df1 = pd.read_csv('https://github.com/Bhaskar02/dengueapp/blob/main/data/dengue101721f.csv')
   #df = df.groupby(['States/UTs', '2012'])
   columns1 = df1.columns.tolist()
   selected_columns = st.multiselect("select column", columns1, default='2012')
