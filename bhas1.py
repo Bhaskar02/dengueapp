@@ -20,7 +20,7 @@ apps = MultiApp()
 apps.add_app("Heatmaps", heatmap.app)
 apps.add_app("Bargraph", line1.app)
 apps.add_app("Bargraph1", line.app)
-apps.add_app("heatmap1", heatmapf.app)
+apps.add_app("heatmapf", heatmapf.app)
 
 
 # The main app
