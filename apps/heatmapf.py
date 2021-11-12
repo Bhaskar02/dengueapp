@@ -19,9 +19,9 @@ def app():
     m = leafmap.Map(location=[20.5937, 78.9629],zoom_start=5,tiles="stamentoner")
     m.add_heatmap(
         df1,
-        latitude=df1['lat'],
-        longitude=df1['long'],
-        value=df1['2012'],
+        latitude='lat',
+        longitude='long',
+        value='2012',
         name="Heat map",
         radius=20,
     )
