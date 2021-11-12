@@ -22,7 +22,7 @@ def app():
         url,
         latitude='lat',
         longitude='long',
-        value='2012',
+        value=selected_columns[0],
         name="Heat map",
         radius=20,
     )
