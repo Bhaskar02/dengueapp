@@ -10,7 +10,7 @@ def app():
 
     st.title('Heatmaps')
 
-    filepath = "https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/dw.csv"
+    filepath = "https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/denguelatdata.csv"
     url = 'https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/denguelatdata.csv'
     df1 = pd.read_csv(url)
     columns1 = df1.columns.tolist()
@@ -20,8 +20,8 @@ def app():
     m.add_heatmap(
         filepath,
         latitude="lat",
-        longitude="lon",
-        value="cases",
+        longitude="long",
+        value="2012",
         name="Heat map",
         radius=20,
     )
