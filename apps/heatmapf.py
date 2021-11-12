@@ -7,7 +7,6 @@ import leafmap.foliumap as leafmap
 def app():
 
     st.title('Heatmaps1')
-
     filepath = "https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_cities.csv"
     url = 'https://raw.githubusercontent.com/giswqs/leafmap/master/examples/data/us_cities.csv'
     df1 = pd.read_csv(url)
