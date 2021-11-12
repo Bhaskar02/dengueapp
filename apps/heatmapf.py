@@ -18,10 +18,10 @@ def app():
     s = df1[selected_columns[0]]
     m = leafmap.Map(location=[20.5937, 78.9629],zoom_start=5,tiles="stamentoner")
     m.add_heatmap(
-        filepath,
+        df1,
         latitude="lat",
         longitude="long",
-        value=s.values,#"2012",
+        value="2012",
         name="Heat map",
         radius=20,
     )
