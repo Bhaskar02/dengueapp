@@ -21,7 +21,7 @@ def app():
         filepath,
         latitude="lat",
         longitude="long",
-        value="2012",
+        value=s.values,#"2012",
         name="Heat map",
         radius=20,
     )
