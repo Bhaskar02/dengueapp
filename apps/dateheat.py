@@ -24,7 +24,7 @@ def app():
     end_date = st.date_input('End date', tomorrow)
     data=df[(df.dat>=str(start_date)) & (df.dat<=str(end_date))]
     data=data[['lat','lon','cases']]
-    HeatMap(data).add_to(m))
+    #HeatMap(data).add_to(m))
     st.write('', data)
     folium.LayerControl().add_to(m)
-    m.to_streamlit(width=700, height=700)
+    m#.to_streamlit(width=700, height=700)
