@@ -22,7 +22,7 @@ apps.add_app("Heatmaps", heatmap.app)
 apps.add_app("Bargraph", line1.app)
 apps.add_app("Bargraph1", line.app)
 apps.add_app("heatmapf", heatmapf.app)
-apps.add_app("heatmapf", dateheat.app)
+apps.add_app("heatmap", dateheat.app)
 
 
 # The main app
