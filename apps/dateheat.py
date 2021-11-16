@@ -12,7 +12,7 @@ import leafmap.foliumap as leafmap
 
 def app():
 
-    st.title('map4')
+    st.title('heatmap with Date')
 
     
     
