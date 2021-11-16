@@ -1,0 +1,234 @@
+id,city,description,lat,lon,dat,cases
+1,Bhopal,No end to online frauds as 4 more cases reported in Bhopal,23.2584857,77.401989,2021/10/01,4
+2,Lucknow,Houses of 50% dengue patients in Lucknow found to be mosquito breeding ground,26.8381,80.9346001,2021/10/04,0
+3,Agra,"Three children died of dengue in last 24 hours, over 4k bed-ridden in Agra",27.1752554,78.0098161,2021/10/04,0
+4,Nagpur,"Dengue cases down by 50% in Nagpur district, division",21.1498134,79.0820556,2021/10/03,0
+5,Hyderabad,Experts for ELISA to detect dengue in Hyderabad,17.360589,78.4740613,2021/10/01,0
+6,Firozabad,"UP: 4,360 dengue cases in Firozabad since August, death toll crosses 200",27.17736635,78.38991198,2021/09/30,4360
+7,Hyderabad,Experts for ELISA to detect dengue in Hyderabad,17.360589,78.4740613,2021/10/01,0
+8,Bhopal,70% dengue cases in Bhopal reported from 12 wards,23.2584857,77.401989,2021/09/30,0
+9,Pune,Patient count with secondary dengue infection rises in Pune,18.521428,73.8544541,2021/09/30,0
+10,Meerut,"Meerut reports 32 fresh dengue cases, one death",29.00065255,77.76822875,2021/09/30,32
+11,Ahmedabad,693 dengue cases in Ahmedabad this month,23.0216238,72.5797068,2021/09/29,693
+13,Patna ,No respite from dengue menace yet in Patna,25.6093239,85.1235252,2020/01/20,0
+14,Patna ,"Dengue cases on rise, 823 reported in Patna this year",25.6093239,85.1235252,2019/10/25,823
+15,Patna ,99 new cases of dengue in Patna,25.6093239,85.1235252,2019/10/10,99
+16,Patna ,"Post-flooding, Patna records 5-fold rise in dengue cases",25.6093239,85.1235252,2019/10/22,5
+17,Patna ,Patna reports 231 fresh dengue cases within a week,25.6093239,85.1235252,2019/10/25,231
+18,Patna ,Patna: 80 test positive for dengue in two days,25.6093239,85.1235252,2019/10/17,80
+19,Patna ,Patna: 136 dengue cases in a day set the alarm bells ringing,25.6093239,85.1235252,2019/10/07,136
+20,Patna ,174 new dengue cases reported in Patna,25.6093239,85.1235252,2019/10/12,174
+21,Patna ,Dengue menace in Patna continues; 108 more test positive,25.6093239,85.1235252,2019/10/26,108
+22,Patna ,Dengue kills four in Patna in past 24 hours,25.6093239,85.1235252,2019/10/10,4
+23,Patna ,192 new dengue cases in 24 hours in Patna,25.6093239,85.1235252,2019/10/11,192
+24,Patna ,Patna records 5 times more dengue cases in October than last year,25.6093239,85.1235252,2019/10/20,0
+25,Lucknow,"Lucknow: Three more died due to dengue in October, season's toll at seven",26.8381,80.9346001,2019/10/24,3
+26,Lucknow,Lucknow: Dengue count drops with chill after 600 cases in November,26.8381,80.9346001,2019/11/02,600
+27,Lucknow,"17 more test positive for dengue in Lucknow, most in single day",26.8381,80.9346001,2019/09/27,17
+28,Lucknow,Dengue stings 10 more in Lucknow,26.8381,80.9346001,2019/10/02,10
+29,Lucknow,Dengue case count breaks 2016 official record in Lucknow,26.8381,80.9346001,2019/11/05,0
+30,Lucknow,Dengue tally up by 13 cases; larvae found in Lucknow school,26.8381,80.9346001,2019/09/26,13
+31,Lucknow,"28 dengue cases a day in November, Lucknow on the edge",26.8381,80.9346001,2019/11/11,28
+32,Lucknow,"Lucknow: School manager denied nod to anti-dengue drive, to be booked",26.8381,80.9346001,2019/10/16,0
+33,Lucknow,Sting gets deadly: 15 dengue cases in 1 day in Lucknow,26.8381,80.9346001,2019/09/19,15
+34,Lucknow,Lucknow: 14 new cases; dengue scores double century,26.8381,80.9346001,2019/09/22,14
+35,Lucknow,"Dengue sting gets sharper, 5 more cases in Lucknow",26.8381,80.9346001,2019/09/04,5
+36,Lucknow,Lucknow records 18 new cases of dengue,26.8381,80.9346001,2019/11/17,18
+37,Lucknow,"Six new dengue cases in Lucknow, highest in one day",26.8381,80.9346001,2019/08/31,6
+38,Lucknow,Dengue toll rises to four in Lucknow,26.8381,80.9346001,2019/10/24,4
+39,Lucknow,Dengue patient count touches 125 in Lucknow,26.8381,80.9346001,2019/09/20,125
+40,Lucknow,Lucknow: 24 new cases of dengue; total at 551,26.8381,80.9346001,2019/10/18,551
+41,Lucknow,"Lucknow: 22 more stung by dengue, larvae found at 42 new locations",26.8381,80.9346001,2019/10/15,22
+42,Lucknow,Dengue stings 13 more in Lucknow,26.8381,80.9346001,2019/10/01,13
+43,Lucknow,11 dengue cases in a day spark alarm in Lucknow,26.8381,80.9346001,2019/09/18,11
+44,Lucknow,"Lucknow: Dengue stings 25 more, highest count in a day",26.8381,80.9346001,2019/10/17,25
+45,Lucknow,"Colleges, fire station among 35 new vector dens in Lucknow",26.8381,80.9346001,2019/09/13,35
+46,Lucknow,"Lucknow: Dengue count up by 14, notices sent",26.8381,80.9346001,2019/09/29,14
+47,Lucknow,Dengue affects 29 more in Lucknow,26.8381,80.9346001,2019/10/26,29
+48,Lucknow,Lucknow tops in UP as dengue stings 56 in four days,26.8381,80.9346001,2019/10/31,56
+49,Lucknow,"Lucknow: Dengue stings 39 in a day, may touch 1,000 mark in October",26.8381,80.9346001,2019/10/25,39
+50,Bhopal,Bhopal feels dengue sting: 100 new cases in a week,23.2584857,77.401989,2019/09/30,100
+51,Bhopal,"Bhopal: Nip dengue in the bud, say experts",23.2584857,77.401989,2019/09/20,0
+52,Vijayawada,"Vijayawada shivers, 400 fever cases registered daily at government hospital",16.5087586,80.6185102,2019/09/27,400
+53,Kolkata,Kolkata: 11-year-old dies of dengue just 500m from KMC headquarters,22.54541245,88.35677516,2019/09/19,1
+54,Kolkata,"West Bengal: 37-year-old man dies of dengue in Kolkata, toll at 28",22.54541245,88.35677516,2019/12/09,28
+55,Kolkata,Three deaths in two weeks: Dengue sting gets deadly in Kolkata,22.54541245,88.35677516,2019/09/25,3
+56,Kolkata,Kolkata: Dengue claims child on Panchami morning,22.54541245,88.35677516,2019/10/03,0
+57,Kolkata,"Kolkata: Dengue patients double in two weeks, 21,000 cases since October 24",22.54541245,88.35677516,2019/11/11,21000
+58,Hyderabad,"Dengue continues to grip Hyderabad, 750 cases recorded until September 7",17.38878595,78.46106473,2019/09/09,750
+59,Hyderabad,"Hyderabad: Dengue kills one more, fourth death in 10 days",17.38878595,78.46106473,2019/09/11,4
+60,Hyderabad,46 cases of chikungunya reported in Hyderabad,17.38878595,78.46106473,2019/10/11,46
+61,Hyderabad,11-year-old paralysed girl waits for hours due to lack of bed in Hyderabad,17.38878595,78.46106473,2019/09/07,0
+62,Hyderabad,Over 960 fever cases surface during three-day health camp in Hyderabad,17.38878595,78.46106473,2019/09/20,960
+63,Hyderabad,"Hyderabad: Spike in swine flu numbers, 6 new cases in 10 days",17.38878595,78.46106473,2019/11/17,6
+64,Hyderabad,Dengue crisis in Hyderabad worst in three decades: Doctors,17.38878595,78.46106473,2019/09/20,0
+65,Hyderabad,Hyderabad: Dengue stings health update a must,17.38878595,78.46106473,2019/12/27,0
+66,Hyderabad,Hyderabad dengue scare: Parents take school to task for poor sanitation,17.38878595,78.46106473,2019/09/04,0
+67,Hyderabad,"Hyderabad: Teen died of dengue, confirms hospital",17.38878595,78.46106473,2019/09/04,1
+68,Hyderabad,Dengue outbreak in Hyderabad: Blood donations double as patient numbers soar,17.38878595,78.46106473,2019/09/05,0
+69,Hyderabad,"Dengue cases decreasing in Hyderabad, says KTR",17.38878595,78.46106473,2019/09/10,0
+70,Karnataka,"Dengue cases in Karnataka cross 10,000; up 138% since 2018",14.5203896,75.7223521,2019/09/13,10000
+71,Karnataka,"With over 9,300 cases till August, dengue sting may be worst in Karnataka",14.5203896,75.7223521,2019/08/28,9300
+72,Karnataka,"6 deaths, more than 8K dengue cases hit Karnataka",14.5203896,75.7223521,2019/08/16,8000
+73,Karnataka,Karnataka: Spurt in dengue cases in Dakshina Kannada district,14.5203896,75.7223521,2020/06/14,0
+74,Karnataka,"With over 14k cases, Karnataka tops dengue list in the country",14.5203896,75.7223521,2019/12/06,14000
+75,Karnataka,"299 new Covid cases take Karnataka tally past 3,000",14.5203896,75.7223521,2020/06/01,299
+76,Telangana,"1,000 dengue cases leave Telangana govt in tizzy",17.8495919,79.1151663,2019/07/04,1000
+77,Telangana,50 deaths? Telangana reels under dengue,17.8495919,79.1151663,2019/09/04,50
+78,Telangana,Suspected dengue kills three of family in Telangana,17.8495919,79.1151663,2019/10/31,4
+79,Telangana,"After dengue, Telangana prepares for swine flu",17.8495919,79.1151663,2019/09/27,0
+80,Telangana,"Dengue cases: After HC rap, Telangana govt to focus on schools",17.8495919,79.1151663,2019/09/04,0
+81,Telangana,"Dengue cases are alarming, what are you doing: HC to Telangana govt",17.8495919,79.1151663,2019/08/31,0
+82,Telangana,Telangana: Surge in dengue numbers worries doctors,17.8495919,79.1151663,2020/01/21,0
+83,Telangana,Dengue cases in Telangana over-reported: Health department,17.8495919,79.1151663,2019/07/07,0
+84,Behala Kolkata,300 dengue cases in Kolkata; Behala worst hit,22.4976756,88.3176763,2019/08/23,300
+85,Behala Kolkata,"Behala woman dies of dengue, both daughters down with fever",22.4976756,88.3176763,2019/09/28,3
+86,Rishikesh,"60-year-old woman dies in Rishikesh, dengue suspected",30.1086537,78.2916193,2019/10/03,0
+87,Nashik,Nashik: 25 test positive for dengue in first week of September,20.0112475,73.7902364,2019/09/12,25
+88,Nashik,Nashik: 26 tested positive for dengue in first week of October,20.0112475,73.7902364,2019/10/09,26
+89,Nashik,80 test postive for dengue in last two weeks in Nashik,20.0112475,73.7902364,2019/09/25,80
+90,Nashik,"Nashik Municipal Corporation finds 58,875 dengue mosquito breeding spots",20.0112475,73.7902364,2019/12/13,58875
+91,Nashik,Dengue advisory for Nashik citizens,20.0112475,73.7902364,2020/06/18,0
+92,Nashik,"Nashik: Already fighting Covid, NMC faces dengue challenge",20.0112475,73.7902364,2020/06/05,0
+93,Dehradun,"85 new dengue cases in Dehradun, toll now 2,183",30.3255646,78.0436813,2019/09/19,85
+94,Dehradun,Number of dengue cases touches 800 in Dehradun,30.3255646,78.0436813,2019/09/10,800
+95,Dehradun,14 more dengue cases in Dehradun,30.3255646,78.0436813,2019/08/14,14
+96,Dehradun,17 more dengue cases in Dehradun,30.3255646,78.0436813,2019/08/29,17
+97,Dehradun,"20 more tested positive, 821 down with dengue in Dehradun",30.3255646,78.0436813,2019/09/11,20
+98,Dehradun,"Dehradun woman dies of dengue, 12 new cases diagnosed",30.3255646,78.0436813,2019/08/24,12
+99,Dehradun,"Dehradun: Dengue cases touch 94, teams sent to stop mosquito breeding",30.3255646,78.0436813,2019/08/01,94
+100,Dehradun,Four new dengue cases in Dehradun,30.3255646,78.0436813,2019/07/17,4
+101,Dehradun,Team of central health ministry inspects dengue affected areas in Dehradun,30.3255646,78.0436813,2019/09/12,0
+102,Gujarat,Gujarat: Dengue claims 7 lives in a week in Jamnagar,22.41540825,72.03149704,2019/10/16,7
+103,Gujarat,Gujarat: 387 dengue cases in 22 days,22.41540825,72.03149704,2019/08/23,387
+105,Gujarat,Dengue deaths lost in number game in Gujarat,22.41540825,72.03149704,2019/10/16,0
+106,Gujarat,"Gujarat: 49 cases of malaria, 36 of dengue daily",22.41540825,72.03149704,2020/02/28,49
+107,Panaji India,22 suspected dengue cases in Panaji this August,15.4989946,73.8282141,2019/08/27,22
+108,Bareilly,Dengue cases rise to 60 in Bareilly,28.457876,79.40557094,2019/10/12,60
+109,Bareilly,35 dengue cases reported in Bareilly division this year,28.457876,79.40557094,2019/09/18,35
+110,Bareilly,Dengue cases rise to 24 in Bareilly district,28.457876,79.40557094,2019/09/06,24
+111,Gandhinagar,"Gandhinagar: DAIICT acts, only after 50 dengue cases",23.2232877,72.6492267,2019/09/21,50
+112,Patiala,15 dengue cases in Patiala,30.2090874,76.33987209,2019/08/29,15
+113,Meerut,"To curb spread of dengue, malaria, 4,233 houses inspected in Meerut",28.916667,77.683333,2019/09/14,4233
+114,Meerut,"Dengue cases rise to 182 in Meerut, doctors say last phase of disease",28.916667,77.683333,2019/11/18,182
+115,Pune,6 Pune ward areas record 75% of all dengue cases,18.521428,73.8544541,2019/09/06,6
+116,Pune,Pune: Four municipal wards record 63% of confirmed dengue cases,18.521428,73.8544541,2019/06/27,0
+117,Pune,Pune: 247 dengue cases in the first eight days of August,18.521428,73.8544541,2019/08/10,247
+118,Pune,"Pune: 3 more dengue deaths, toll climbs to five this year",18.521428,73.8544541,2019/10/04,3
+119,Pune,"Pune: Woman succumbs to dengue, toll touches 45",18.521428,73.8544541,2019/11/25,45
+120,Pune,"Three more die of dengue, toll touches 48 in Pune",18.521428,73.8544541,2019/11/26,48
+121,Pune,Pune: 20 dengue deaths since July at Sassoon hospital,18.521428,73.8544541,2019/11/18,20
+122,Pune,Pune hospital confirms 5 more dengue deaths in October,18.521428,73.8544541,2019/11/05,5
+124,Pune,Pune: Dengue confines many to bed during festive season,18.521428,73.8544541,2019/10/31,0
+125,Pune,Pune: Bibvewadi woman seventh dengue victim this year,18.521428,73.8544541,2019/11/01,0
+126,Pune,Dengue claims first life in Pune this year,18.521428,73.8544541,2019/09/23,0
+127,Pune,Pune: Six wards register 81% of confirmed dengue cases,18.521428,73.8544541,2019/12/07,0
+128,Pune,Over 100 dengue cases in Pune in just 3 days,18.521428,73.8544541,2019/12/05,100
+129,Pune,"Cases of dengue, chikungunya begin to stack up in Pune",18.521428,73.8544541,2019/07/10,0
+130,Delhi ,Nine cases of dengue reported in Delhi this year till May 11,28.6517178,77.2219388,2019/05/14,9
+131,Delhi ,Delhi registers 202 malaria cases this year with 48 in 1st week of September,28.6517178,77.2219388,2019/09/10,0
+132,Delhi ,24X7 South Delhi Municipal Corporation helpline for dengue fight,28.6517178,77.2219388,2019/09/27,0
+133,Delhi ,"Delhi: Dengue cases rise to 4,704 as year nears end",28.6517178,77.2219388,2018/12/17,4704
+134,Delhi ,2 dengue deaths in Delhi this year,28.6517178,77.2219388,2020/01/07,2
+135,Delhi ,"Delhi: Fate of 3,500 men who keep dengue away uncertain",28.6517178,77.2219388,2020/02/22,3500
+136,Delhi ,Number of dengue cases in Delhi spikes in week after Diwali,28.6517178,77.2219388,2019/11/06,0
+137,Delhi ,"Dengue cases on decline in Delhi, says Arvind Kejriwal",28.6517178,77.2219388,2019/09/16,0
+138,Delhi ,"Delhi: As corporations battle Covid-19, dengue rears its ugly head",28.6517178,77.2219388,2020/04/11,0
+139,Delhi ,830 dengue cases in Delhi so far this year; 189 last week,28.6517178,77.2219388,2019/10/29,830
+140,Delhi ,Six dengue cases reported in Delhi this year: Municipal report,28.6517178,77.2219388,2019/04/01,5
+141,Chennai,Health minister Ma Subramanian inspects dengue control measures as cases rise in Chennai,13.0836939,80.270186,2021/10/05,0
+142,Lucknow,Six localities hub of dengue in Lucknow,26.8381,80.9346001,2021/10/07,6
+143,Visakhapatnam,"No let-up in malaria, dengue cases in Visakhapatnam",17.7231276,83.3012842,2021/10/06,0
+215,Ahmedabad ,Mosquito breeding: 6 properties sealed in Ahmedabad,23.0216238,72.5797068,2019/09/25,6
+217,Ahmedabad ,359 new dengue cases in last 11 days in Ahmedabad,23.0216238,72.5797068,2019/10/15,359
+218,Ahmedabad ,Ahmedabad: Dengue kills 17-year-old medical student,23.0216238,72.5797068,2019/10/08,1
+219,Ahmedabad ,Ahmedabad: 42% of dengue patients are children,23.0216238,72.5797068,2019/12/03,3
+220,Ahmedabad ,Deadly bite: Three-fold rise in dengue deaths in Ahmedabad this year,23.0216238,72.5797068,2019/12/18,3
+232,Ahmedabad ,Five dengue deaths in past month in Ahmedabad,23.0216238,72.5797068,2019/09/24,5
+233,Ahmedabad ,Typhoid cases on the rise in Ahmedabad,23.0216238,72.5797068,2019/08/13,0
+234,Ahmedabad ,Ahmedabad witnessed 45 per cent spike in dengue cases in 2019,23.0216238,72.5797068,2020/01/07,0
+235,Ahmedabad ,"Ahmedabad: In 16 days, dengue cases hit 156% of last November total",23.0216238,72.5797068,2019/11/19,0
+236,Ahmedabad ,546 dengue cases in Ahmedabad in 19 days of October,23.0216238,72.5797068,2019/10/22,546
+238,Ahmedabad ,"Ahmedabad: Swine flu cases doubled, dengue spiked in 2019",23.0216238,72.5797068,2019/12/11,0
+239,Ahmedabad ,Ahmedabad: Dengue cases shot up 139% in November,23.0216238,72.5797068,2019/12/03,0
+241,Ahmedabad ,Are dengue cases falling in Ahmedabad?,23.0216238,72.5797068,2019/08/27,0
+242,Secunderabad,"Spurt in dengue and typhoid cases in Secunderabad Cantonment, daily count exceeds 400 in area hospital",17.4337246,78.5006827,2019/08/26,400
+244,Lucknow,"Dengue sting fails to spur Lucknow Municipal Corporation into action, cases soar",26.8381,80.9346001,2021/10/08,0
+249,Bengaluru,"Bengaluru sees nearly 3,000 dengue cases; Hoysalanagar worst hit",12.9791198,77.5912997,2019/07/21,3000
+250,Bengaluru,29 dengue cases in 9 days in Bengaluru,12.9791198,77.5912997,2019/05/14,29
+251,Bengaluru,47 dengue cases in one locality in Bengaluru,12.9791198,77.5912997,2019/06/17,47
+252,Bengaluru,5-month-old Mandya boy dies of suspected dengue in Bengaluru,12.9791198,77.5912997,2019/07/21,0
+253,Bengaluru,"Bengaluru: Good Samaritans walk into hospitals, donate platelets",12.9791198,77.5912997,2019/07/23,0
+256,Bengaluru,"Bengaluru dengue cases: Papaya leaf helps, but is no miracle cure, say experts",12.9791198,77.5912997,2019/07/30,0
+257,Bengaluru,"Bengaluru: Sole test downplays dengue, cases double of govt claim, say doctors",12.9791198,77.5912997,2019/07/30,0
+258,Bengaluru,"Bengaluru sees 24-hour highest of 138 cases, 7 deaths",12.9791198,77.5912997,2020/06/20,138
+263,Aurangabad,Aurangabad: 64 suspected cases of dengue reported in August,19.877263,75.3390241,2019/08/31,64
+264,Aurangabad,Aurangabad health department intensifies drive against dengue as girl dies,19.877263,75.3390241,2019/09/29,0
+265,Jalandhar,Jalandhar: Anti-larva teams detect 43 dengue larva cases in 10 places,31.3323762,75.576889,2019/08/06,43
+266,Chennai,"Battalion of 3,000 to fight dengue, each to cover 500 homes per week in Chennai",13.0801721,80.2838331,2019/10/16,3000
+267,Chennai,515 dengue cases in Chennai: Civic body,13.0801721,80.2838331,2018/12/19,515
+268,Chennai,"Five, including three working in Chennai, at Kumbakonam hospital",13.0801721,80.2838331,2019/09/25,5
+269,Chennai,Greater Chennai Corporation to do focused fogging to kill dengue,13.0801721,80.2838331,2019/09/25,0
+270,Chennai,"Realtors refuse to pay dengue penalty, clean breeding spots: Greater Chennai Corporation",13.0801721,80.2838331,2019/10/25,0
+273,Nagpur,"Nagpur: 7 dengue cases in August, 22 since January",21.1498134,79.0820556,2019/08/20,7
+274,Nagpur,Nagpur registers highest-ever dengue positive cases in 2019,21.1498134,79.0820556,2020/01/08,0
+275,Uttarakhand,"Dengue cases cross 2,000 in Uttarakhand, max figures from Dehradun, Nainital",30.09199355,79.32176659,2019/09/17,2000
+276,Uttarakhand,Uttarakhand: 34-year-old man succumbs to dengue in Udham Singh Nagar,30.09199355,79.32176659,2019/11/03,0
+277,Uttarakhand,"Despite mercury dip, dengue cases continue to rise in Uttarakhand",30.09199355,79.32176659,2019/11/13,0
+279,Uttarakhand,"Uttarakhand battles worst dengue outbreak in years, over 8k cases reported",30.09199355,79.32176659,2019/10/25,8000
+282,Kanpur,13 more have dengue; virus tightens grip on Kanpur Road,26.4609135,80.3217588,2019/09/21,13
+284,Rajasthan,"Dengue death toll in Rajasthan rises to 12, 3,860 test positive in 12 days",26.8105777,73.7684549,2019/11/18,3860
+286,Rajasthan,"Dengue cases with marks of cold, cough increasing in Rajasthan",26.8105777,73.7684549,2019/11/19,0
+287,Vellore,7-year-old boy dies of dengue in Vellore,12.9071753,79.1309695,2019/10/31,0
+288,Jaipur,608 test positive for dengue in Jaipur in past 17 days,26.916194,75.820349,2019/11/03,608
+289,Jaipur,"Jaipur: From 535 to 1,084, dengue cases double in just 20 days",26.916194,75.820349,2019/10/21,1084
+290,Bihar,"Dengue count increases to 3,950 in Bihar",25.6440845,85.906508,2019/10/29,3950
+291,Bihar,Bihar: Former MLA gets life term in rape case after 25 years,25.6440845,85.906508,2020/01/31,0
+292,Goa,Goa CM: Step up dengue awareness,15.3004543,74.0855134,2019/09/27,0
+293,Goa,"With 726 dengue cases, Goa sees three-fold rise in 2019",15.3004543,74.0855134,2020/01/20,726
+296,Lucknow,22 more dengue cases reported in Lucknow,26.8381,80.9346001,2021/10/10,22
+298,Maharashtra,"Maharashtra forms panel to assist doctors in handling dengue, swine flu cases",19.531932,76.0554568,2020/05/21,0
+299,Maharashtra,"With six deaths & 4,272 cases, dengue hits rural Maharashtra hard",19.531932,76.0554568,2019/11/12,4272
+300,Maharashtra,"Maharashtra: Number of dengue cases may drop this year, say doctors",19.531932,76.0554568,2019/07/27,0
+301,Maharashtra,"Maharashtra sees 3,752 cases, highest in a day since Covid-19 struck",19.531932,76.0554568,2020/06/19,3752
+304,Coimbatore,Coimbatore: Pharmacists told not to sell drugs without prescription,11.0018115,76.9628425,2019/10/04,0
+305,Chandigarh,"Dengue cases may go up in Chandigarh if humidity persists, say experts",30.7194022,76.7646552,2019/08/28,0
+306,Surat,Sudden spurt in dengue cases in Surat,21.1864607,72.8081281,2019/10/16,0
+308,Bhopal,Rain may trigger spurt in dengue cases in Bhopal,23.2584857,77.401989,2021/10/18,0
+309,Delhi,"Dengue in Firozabad: Chemists run out of intravenous fluids; attendants rush to Delhi to get saline bags, return empty-handed",28.6517178,77.2219388,2021/10/18,0
+312,Agra,"350 dengue cases confirmed in Agra dist, highest in 10 years",27.1752554,78.0098161,2021/10/20,350
+313,Delhi,"AAP, BJP spar over rise in dengue cases in Delhi",28.6517178,77.2219388,2021/10/19,0
+314,Delhi,Delhi feels sting with first dengue death,28.6517178,77.2219388,2021/10/19,0
+315,Delhi,Locals worried about dengue outbreak in Delhi,28.6517178,77.2219388,2021/10/18,0
+316,Delhi,First death reported in Delhi due to dengue this year: Civic body,28.6517178,77.2219388,2021/10/18,5
+324,Rajasthan,"With 8 deaths and over 4.7k cases in 28 days, dengue threat for Rajasthan",26.8105777,73.7684549,2021/10/20,4700
+331,Lucknow,"In new high, 29 dengue cases in Lucknow",26.8381,80.9346001,2021/10/22,29
+332,Delhi,"As dengue cases rise, Delhi govt reduces Covid-19 beds in private hospitals",28.6517178,77.2219388,2021/10/22,0
+341,Jaipur,"aipur reports 70 dengue cases in 24 hours, count crosses 550 in 16 days",26.9154576,75.8189817,2021/10/24,550
+342,Lucknow,Demand for platelets up 75% with rising dengue cases in Lucknow,26.8381,80.9346001,2021/10/24,0
+343,Nashik,Drop in dengue cases in Nashik,20.0112475,73.7902364,2021/10/23,0
+347,Delhi,"Dengue cases in Delhi go past 1,000 with 665 in October alone",28.6517178,77.2219388,2021/10/26,665
+360,Delhi,AAP to start mega fogging drive to fight dengue in Delhi,28.6517178,77.2219388,2021/10/27,0
+364,Delhi,Hospitals under pressure as dengue cases soar in Delhi,28.6517178,77.2219388,2021/10/28,0
+371,Chandigarh,October reports 770 of 854 dengue cases in Chandigarh,30.7334421,76.7797143,2021/11/01,770
+372,Delhi,Hospitals may use beds reserved for Covid cases for dengue patients: Delhi govt,28.6517178,77.2219388,2021/10/30,0
+373,Delhi,Panel confirms six deaths in Delhi due to dengue this season,28.6517178,77.2219388,2021/10/30,6
+374,Maharashtra,Major rise in dengue cases in north Maharashtra,18.9068356,75.6741579,2021/11/03,16
+375,Delhi,"As cases soar, EDMC spots 16 dengue red zones in Delhi",28.6517178,77.2219388,2021/11/03,0
+377,Delhi,"Corporations say official dengue toll in Delhi now six, over 1,500 cases till October 30",28.6517178,77.2219388,2021/11/02,1500
+378,Delhi,Dengue spread in Delhi poses a fresh big test,28.6517178,77.2219388,2021/11/02,0
+382,Lucknow,"Dengue stings 19 more in a day, tally crosses 1,100 mark in Lucknow",26.8381,80.9346001,2021/11/04,19
+389,Jaipur,Jaipur hospitals under pressure as dengue cases soar,26.9154576,75.8189817,2021/11/08,0
+390,Lucknow,30 dengue patients in 2 days in Lucknow,26.8381,80.9346001,2021/11/07,30
+391,Kolkata,Dengue patient count catches up with Covid numbers in Kolkata hospitals,22.5414185,88.35769124,2021/11/07,0
+395,Rajasthan,"Rajasthan reports 28 dengue deaths this year, highest since 2015",26.8105777,73.7684549,2021/11/09,28
+396,Delhi,"Dengue death toll in Delhi rises to nine, cases mount to over 2,700",28.6517178,77.2219388,2021/11/08,2700
+401,Delhi,"Submit status report on dengue steps, says Delhi high court",28.6517178,77.2219388,2021/11/10,0
+402,Delhi,"Dengue situation in Delhi worsened this year compared to 2021, says health expert",28.6517178,77.2219388,2021/11/10,0
+403,Ahmedabad,491% rise in dengue cases in Ahmedabad from 2020,23.0216238,72.5797068,2021/11/10,0
+404,Lucknow,Dip in temperature fails to check dengue in Lucknow,26.8381,80.9346001,2021/11/10,0
+410,Rajasthan,Health officials from Centre inspect Rajasthan to contain dengue,26.8105777,73.7684549,2021/11/12,0
+418,Lucknow,No let-up: 17 more suspected dengue cases detected in Lucknow,26.8381,80.9346001,2021/11/08,17
+419,Meerut,"Meerut reports 10 new dengue cases, active cases reach 246",29.00065255,77.76822875,2021/11/13,10
+420,Rajasthan,Health officials from Centre inspect Rajasthan to contain dengue,26.8105777,73.7684549,2021/11/12,0
+421,Lucknow,28 more cases of dengue ring alarm in Lucknow,26.8381,80.9346001,2021/11/11,28
