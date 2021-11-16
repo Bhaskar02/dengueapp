@@ -21,6 +21,6 @@ def app():
     tomorrow = today + datetime.timedelta(days=1)
     start_date = st.date_input('Start date', today)
     end_date = st.date_input('End date', tomorrow)
-    data=df[(df.dat>=start_date) & (df.dat<=end_date)]
-    data=data[['lat','lon','cases']]
+    //data=df[(df.dat>=start_date) & (df.dat<=end_date)]
+    //data=data[['lat','lon','cases']]
     m.to_streamlit(width=700, height=700)
