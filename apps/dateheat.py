@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 import leafmap.foliumap as leafmap
 import datetime
+from folium.plugins import HeatMap
 
 
 
