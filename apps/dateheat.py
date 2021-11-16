@@ -5,7 +5,8 @@ import numpy as np
 import folium
 from folium import plugins
 from folium.plugins import HeatMap
-
+import pandas as pd
+import streamlit as st
 
 
 def app():
@@ -16,7 +17,7 @@ def app():
     
     df = pd.read_csv('https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/dengue11f.csv')
     
-    m = leafmap.Map(location=[20.5937, 78.9629],zoom_start=5,tiles="stamentoner")
+    m = folium.Map([20.5937, 78.9629], tiles='stamentoner', zoom_start=5)
     today = datetime.date.today()
     tomorrow = today + datetime.timedelta(days=1)
     start_date = st.date_input('Start date', today)
