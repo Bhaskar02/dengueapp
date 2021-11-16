@@ -21,7 +21,7 @@ def app():
     #m = folium.Map([20.5937, 78.9629], tiles='stamentoner', zoom_start=5)
     today = datetime.date.today()
     tomorrow = today + datetime.timedelta(days=1)
-    today=today - datetime.timedelta(days=60)
+    today=today - datetime.timedelta(days=200)
     start_date = st.date_input('Start date', today)
     end_date = st.date_input('End date', tomorrow)
     data=df[(df.dat>=str(start_date)) & (df.dat<=str(end_date))]
