@@ -66,7 +66,7 @@ class MultiApp:
         st.sidebar.info(
             "This is an open source project and you are very welcome to contribute your "
             "comments, questions, resources and apps as "
-            "[issues](https://github.com/giswqs/streamlit-geospatial/issues) or 
+            "[issues](https://github.com/giswqs/streamlit-geospatial/issues) or" 
             "to the [source code](https://github.com/Bhaskar02/dengueapp). "
         )
         st.sidebar.title("About")
