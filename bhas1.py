@@ -6,7 +6,8 @@ from apps import (
     line1,
     line,
     heatmapf,
-    dateheat
+    dateheat,
+    ras
     
 )
 
@@ -23,6 +24,7 @@ apps.add_app("Bargraph", line1.app)
 apps.add_app("Bargraph1", line.app)
 apps.add_app("heatmapf", heatmapf.app)
 apps.add_app("dateheat", dateheat.app)
+apps.add_app("ras", ras.app)
 
 
 # The main app
