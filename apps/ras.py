@@ -30,6 +30,7 @@ def app():
     start_date = st.date_input('Start date', today)
     end_date = st.date_input('End date', tomorrow)
     st.write('', start_date)
+    st.write('', end_date)
     data=df[(df.dat>=str(start_date)) & (df.dat<=str(end_date))]
     data=data[['lat','lon','cases']]
     HeatMap(data).add_to(m)#(folium.FeatureGroup(name='Heat Map').add_to(m))
