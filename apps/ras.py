@@ -32,8 +32,9 @@ def app():
     st.write('', start_date)
     st.write('', end_date)
     data=df[(df.dat>=str(start_date)) & (df.dat<=str(end_date))]
+    st.write('', data)
     data=data[['lat','lon','cases']]
     HeatMap(data).add_to(m)#(folium.FeatureGroup(name='Heat Map').add_to(m))
-    st.write('', data)
+    
     #folium.LayerControl().add_to(m)
     m.to_streamlit(width=700, height=700)
