@@ -72,7 +72,7 @@ class MultiApp:
         st.sidebar.title("About")
         st.sidebar.info(
             """
-            This web [app](https://share.streamlit.io/bhaskar02/dengueapp/main/bhas1.py) is maintained by [Qiusheng Wu](https://wetlands.io). You can follow me on social media:
+            This web [app](https://share.streamlit.io/bhaskar02/dengueapp/main/bhas1.py) is maintained by . You can follow me on social media:
              [GitHub](https://github.com/Bhaskar02/dengueapp)).
             This web app URL: <https://streamlit.gishub.org>
         """
