@@ -17,7 +17,7 @@ def app():
     
     
     df = pd.read_csv('https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/dengue11f.csv')
-    #df['dat'] = pd.to_datetime(df['dat'], format='%Y-%m-%d')
+    df['dat'] = pd.to_datetime(df['dat'], format='%Y-%m-%d')
     m = leafmap.Map(location=[20.5937, 78.9629],zoom_start=5,tiles="stamentoner")
     #m = folium.Map([20.5937, 78.9629], tiles='stamentoner', zoom_start=5)
     today = datetime.date.today()
@@ -26,6 +26,7 @@ def app():
     start_date = st.date_input('Start date', today)
     end_date = st.date_input('End date', tomorrow)
     data=df[(df.dat>=str(start_date)) & (df.dat<=str(end_date))]
+    st.write('', data)
     data=data[['lat','lon','cases']]
     HeatMap(data).add_to(m)#(folium.FeatureGroup(name='Heat Map').add_to(m))
     #st.write('', data)
