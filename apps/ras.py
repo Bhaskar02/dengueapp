@@ -22,6 +22,7 @@ def app():
     
     
     df = pd.read_csv('https://raw.githubusercontent.com/Bhaskar02/dengueapp/main/data/dengue11f.csv')
+    df['dat'] = pd.to_datetime(df['dat'], format='%Y-%m-%d')
     m = leafmap.Map(location=[20.5937, 78.9629],zoom_start=5,tiles="stamentoner")
     #m = folium.Map([20.5937, 78.9629], tiles='stamentoner', zoom_start=5)
     today = datetime.date.today()
