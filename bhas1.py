@@ -21,9 +21,9 @@ apps = MultiApp()
 
 
 #apps.add_app("Bargraph", line1.app)
-apps.add_app("Bargraph1", line.app)
-apps.add_app("heatmapf", heatmapf.app)
-apps.add_app("dateheat", dateheat.app)
+apps.add_app("BarGraph", line.app)
+apps.add_app("HeatMap1", heatmapf.app)
+apps.add_app("HeatMap2", dateheat.app)
 #apps.add_app("ras", ras.app)
 
 
