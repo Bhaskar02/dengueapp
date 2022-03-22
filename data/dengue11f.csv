@@ -1,5 +1,4 @@
 id,city,description,lat,lon,dat,cases
-1,Bhopal,No end to online frauds as 4 more cases reported in Bhopal,23.2584857,77.401989,2021/10/01,4
 2,Lucknow,Houses of 50% dengue patients in Lucknow found to be mosquito breeding ground,26.8381,80.9346001,2021/10/04,0
 3,Agra,"Three children died of dengue in last 24 hours, over 4k bed-ridden in Agra",27.1752554,78.0098161,2021/10/04,0
 4,Nagpur,"Dengue cases down by 50% in Nagpur district, division",21.1498134,79.0820556,2021/10/03,0
@@ -10,7 +9,6 @@ id,city,description,lat,lon,dat,cases
 9,Pune,Patient count with secondary dengue infection rises in Pune,18.521428,73.8544541,2021/09/30,0
 10,Meerut,"Meerut reports 32 fresh dengue cases, one death",29.00065255,77.76822875,2021/09/30,32
 11,Ahmedabad,693 dengue cases in Ahmedabad this month,23.0216238,72.5797068,2021/09/29,693
-13,Patna ,No respite from dengue menace yet in Patna,25.6093239,85.1235252,2020/01/20,0
 14,Patna ,"Dengue cases on rise, 823 reported in Patna this year",25.6093239,85.1235252,2019/10/25,823
 15,Patna ,99 new cases of dengue in Patna,25.6093239,85.1235252,2019/10/10,99
 16,Patna ,"Post-flooding, Patna records 5-fold rise in dengue cases",25.6093239,85.1235252,2019/10/22,5
